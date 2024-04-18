@@ -1,10 +1,6 @@
 # Simple Laravel 10 User Roles and Permissions
 Learn how to develop simple Laravel 10 user roles and permissions application
 
-> The complete tutorial step by step guide is available on my blog. [AllPHPTricks Laravel roles and permissions](https://www.allphptricks.com/simple-laravel-10-user-roles-and-permissions/)
-
-## Blog
-https://www.allphptricks.com/
 
 
 ## Installation 
